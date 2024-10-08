@@ -27,12 +27,13 @@ Before running the application, ensure you have the following installed:
   - barcode
   - Pillow
   - PyMuPDF
+  - Openpyxl
   - tkinter (included with Python)
 
 You can install the required packages using pip:
 
 ```bash
-pip install pandas python-barcode Pillow PyMuPDF
+pip install pandas python-barcode Pillow PyMuPDF Openpyxl
 ```
 
 Installation
