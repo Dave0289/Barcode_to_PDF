@@ -1,0 +1,2 @@
+PDFBARCODE_QR.py is version to place QR codes in lieu of code 128 barcodes.
+pip install qrcode required
